@@ -1,0 +1,16 @@
+[
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "ARS",
+    "amount": 100.0,
+    "result": 97942.0,
+    "timestamp": "2024-10-12 11:58:10"
+  },
+  {
+    "fromCurrency": "ARS",
+    "toCurrency": "USD",
+    "amount": 100.0,
+    "result": 0.10210124359314697,
+    "timestamp": "2024-10-12 11:58:39"
+  }
+]
